@@ -29,13 +29,13 @@
 |Loi  | Esperance   | Variance| Explication|
 |:----|------------|----------|-----------:|
 |Loi Uniforme discrete|  ![alt text][image1] |  ![alt text][image12]||
-|Loi Uniforme Continue| ![alt text][image2] |  `p(1 – p)` ||
-|Loi Bernoulli| ![alt text][image3] | `npq` ||
-|Loi Binomial| ![alt text][image4] | ok ||
-|Loi de Poisson| `Lamdba` | `Lamdba`||
-|Loi Pascal| ok | ok||
-|Loi Normal| ok | ok ||
-|Loi Student| ok | ok ||
-|Loi de Fisher-Snedecor| ko | ko ||
-|Loi du χ2 de Pearson| ok | ok ||
-|Loi Normal centre et reduite| ok | ok ||
+|Loi Uniforme Continue| ![alt text][image2] |  ![alt text][image13] ||
+|Loi Bernoulli| ![alt text][image3] | ![alt text][image14] ||
+|Loi Binomial| ![alt text][image4] | ![alt text][image15] ||
+|Loi de Poisson| ![alt text][image5] | ![alt text][image16]||
+|Loi Pascal| ![alt text][image6] | ![alt text][image17] ||
+|Loi Normal| ![alt text][image7] | ![alt text][image18] ||
+|Loi Student| ![alt text][image8] | ![alt text][image19] ||
+|Loi de Fisher-Snedecor| ![alt text][image9] | ![alt text][image20] ||
+|Loi du χ2 de Pearson| ![alt text][image10] | ![alt text][image21] ||
+|Loi Normal centre et reduite| ![alt text][image11] | ![alt text][image21] ||
