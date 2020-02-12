@@ -1,4 +1,4 @@
-#PROBABILITE 
+#PROBABILITE
 
 ## LES LOIS
 ----------------
